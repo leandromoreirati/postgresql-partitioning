@@ -35,7 +35,7 @@ Banco de dados postgres instalado e configurados.
 # Verificando a tabela de histórico
   zabbix=> \d+ history;
 
-# FONTe
+# FONTE
 Todos os procedimentos de particionamento do banco de dados executados acima foram extraídos da documentação oficial, no link a baixo:
 
 https://zabbix.org/wiki/Docs/howto/zabbix2_postgresql_autopartitioning
